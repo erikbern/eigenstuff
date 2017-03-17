@@ -19,17 +19,21 @@ def get_n_results_dumb(q):
     m = re.search(r'([0-9,]+)', s)
     return int(m.groups()[0].replace(',', ''))
 
-if True:
+if False:
     tag = 'prog_lang'
-    items = ['java', 'c', 'c++', 'c#', 'python', 'visual basic', 'node', 'perl', 'php', 'ruby', 'go', 'swift', 'dart', 'objective c', 'cobol', 'fortran', 'lua', 'scala', 'lisp', 'haskell', 'rust', 'erlang', 'clojure', 'matlab', 'pascal', 'r', 'elixir', 'kotlin'] #, 'prolog', 'typescript']
+    items = ['java', 'c', 'c++', 'c#', 'python', 'visual basic', 'node', 'perl', 'php', 'ruby', 'go', 'swift', 'objective c', 'cobol', 'fortran', 'lua', 'scala', 'lisp', 'haskell', 'rust', 'erlang', 'clojure', 'matlab', 'pascal', 'r', 'kotlin']
     verbs_ij = ['switch', 'switched', 'move', 'moved', 'code']
-elif False:
+elif True:
     tag = 'js_framework'
     items = ['react', 'angular', 'vue', 'backbone', 'ember', 'knockout', 'jquery']
     verbs_ij = ['switch', 'switched', 'move', 'moved']
-elif False:
+elif True:
     tag = 'database'
-    items = ['mysql', 'postgres', 'mongodb', 'cassandra', 'dynamodb', 'mariadb']
+    items = ['mysql', 'postgres', 'mongodb', 'cassandra', 'dynamodb', 'mariadb', 'riak', 'redis']
+    verbs_ij = ['switch', 'switched', 'move', 'moved']
+elif False:
+    tag = 'deep_learning_frameworks'
+    items = ['tensorflow', 'theano', 'keras', 'lasagne', 'caffe', 'torch', 'pytorch', 'mxnet', 'deeplearning4j']
     verbs_ij = ['switch', 'switched', 'move', 'moved']
 else:
     tag = 'taxi_app'
@@ -62,7 +66,7 @@ for i, j, q in qs:
         f.close()
     m[j][i] += n
 
-def plot_mat(m, items, cm, fn, text=False, dir_text=None):
+def plot_mat(m, items, cm, fn, fmt, dir_text=None):
     s = 4 + len(items) * 0.3
     fig = pyplot.figure(figsize=(s, s))
     ax = fig.add_subplot(111)
@@ -83,19 +87,20 @@ def plot_mat(m, items, cm, fn, text=False, dir_text=None):
     ax.set_yticks(numpy.arange(0.5, len(items)+0.5), minor=True)
     ax.grid(which='minor')
 
-    if text:
-        for i in range(len(items)):
-            for j in range(len(items)):
-                ax.text(i, j, str(int(m[i][j])), va='center', ha='center', size=7)
+    for i in range(len(items)):
+        for j in range(len(items)):
+            text = fmt % m[i][j]
+            if text != fmt % 0:
+                ax.text(i, j, text, va='center', ha='center', size=7)
 
     fig.tight_layout()
     pyplot.savefig(fn, dpi=300)
 
 # Plot lexicographical
 ps = sorted(range(len(items)), key=lambda i: items[i])
-plot_mat(m[ps,:][:,ps], sorted(items), pyplot.cm.OrRd, '%s_matrix.png' % tag, text=True)
+plot_mat(m[ps,:][:,ps], sorted(items), pyplot.cm.OrRd, '%s_matrix.png' % tag, '%.0f')
 
-m += numpy.eye(len(items)) # hack to fix zero entries
+# m += numpy.eye(len(items)) # hack to fix zero entries
 for item, pop in zip(items, m.sum(axis=0) + m.sum(axis=1)):
     print('%20s %6d' % (item, pop))
 m /= m.sum(axis=0)[numpy.newaxis,:]
@@ -111,4 +116,4 @@ for p in reversed(ps):
     print('| %5.2f%% | %20s |' % (u[p]*100, items[p]))
 
 m_new = m[ps,:][:,ps]
-plot_mat(m_new, [items[p] for p in ps], pyplot.cm.BuGn, '%s_matrix_eig.png' % tag, dir_text='future popularity')
+plot_mat(m_new, [items[p] for p in ps], pyplot.cm.BuGn, '%s_matrix_eig.png' % tag, '%.2f', dir_text='future popularity')
