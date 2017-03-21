@@ -1,0 +1,5 @@
+{
+    "tag": "database",
+    "items": ["mysql", "postgres", "mongodb", "cassandra", "dynamodb", "mariadb", "riak", "redis"],
+    "verbs": ["switch", "switched", "move", "moved"]
+}

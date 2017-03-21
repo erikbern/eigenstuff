@@ -1,0 +1,5 @@
+{
+    "tag": "prog_lang",
+    "items": ["java", "c", "c++", "c#", "python", "visual basic", "node", "perl", "php", "ruby", "go", "swift", "objective c", "cobol", "fortran", "lua", "scala", "lisp", "haskell", "rust", "erlang", "clojure", "matlab", "pascal", "r", "kotlin"],
+    "verbs": ["switch", "switched", "move", "moved", "code"]
+}

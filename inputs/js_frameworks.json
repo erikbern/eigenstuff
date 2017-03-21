@@ -1,0 +1,5 @@
+{
+    "tag": "js_frameworks",
+    "items": ["react", "angular", "vue", "backbone", "ember", "knockout", "jquery"],
+    "verbs": ["switch", "switched", "move", "moved"]
+}

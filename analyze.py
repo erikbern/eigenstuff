@@ -1,4 +1,4 @@
-import bs4, itertools, matplotlib, numpy, os, random, re, requests, sys, time
+import bs4, itertools, json, matplotlib, numpy, os, random, re, requests, sys, time
 from matplotlib import pyplot
 
 cache = {}
@@ -19,33 +19,17 @@ def get_n_results_dumb(q):
     m = re.search(r'([0-9,]+)', s)
     return int(m.groups()[0].replace(',', ''))
 
-if False:
-    tag = 'prog_lang'
-    items = ['java', 'c', 'c++', 'c#', 'python', 'visual basic', 'node', 'perl', 'php', 'ruby', 'go', 'swift', 'objective c', 'cobol', 'fortran', 'lua', 'scala', 'lisp', 'haskell', 'rust', 'erlang', 'clojure', 'matlab', 'pascal', 'r', 'kotlin']
-    verbs_ij = ['switch', 'switched', 'move', 'moved', 'code']
-elif True:
-    tag = 'js_framework'
-    items = ['react', 'angular', 'vue', 'backbone', 'ember', 'knockout', 'jquery']
-    verbs_ij = ['switch', 'switched', 'move', 'moved']
-elif True:
-    tag = 'database'
-    items = ['mysql', 'postgres', 'mongodb', 'cassandra', 'dynamodb', 'mariadb', 'riak', 'redis']
-    verbs_ij = ['switch', 'switched', 'move', 'moved']
-elif False:
-    tag = 'deep_learning_frameworks'
-    items = ['tensorflow', 'theano', 'keras', 'lasagne', 'caffe', 'torch', 'pytorch', 'mxnet', 'deeplearning4j']
-    verbs_ij = ['switch', 'switched', 'move', 'moved']
-else:
-    tag = 'taxi_app'
-    items = ['uber', 'lyft', 'gett', 'juno', 'curb', 'via', 'summon', 'bridj', 'way2ride', 'arro', 'flywheel', 'sidecar', 'hailo', 'ola', 'grab', 'easy taxi', 'didi dache', 'lecab', 'cabify', 'careem']
-    verbs_ij = ['switch', 'switched', 'move', 'moved']
+data = json.load(open(sys.argv[1]))
+tag = data['tag']
+items = data['items']
+verbs = data['verbs']
 
 item2i = dict([(item, i) for i, item in enumerate(items)])
 
 qs = []
 for item1, item2 in itertools.product(items, items):
     if item1 != item2:
-        for verb in verbs_ij:
+        for verb in verbs:
             qs.append((item2i[item1], item2i[item2], '"%s from %s to %s"' % (verb, item1, item2)))
             qs.append((item2i[item1], item2i[item2], '"%s to %s from %s"' % (verb, item2, item1)))
 
