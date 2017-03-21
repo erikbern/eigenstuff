@@ -12112,3 +12112,1459 @@
 "switched from redis to cassandra"	6
 "moved to redis from mongodb"	0
 "moved to riak from cassandra"	0
+"move from notepad++ to bluefish"	0
+"switch to bluefish from atom"	0
+"moved to nano from visual studio"	0
+"move from notepad++ to komodo"	0
+"move to nano from bluefish"	0
+"moved to text wrangler from ultraedit"	0
+"switched to komodo from emacs"	0
+"switch from komodo to ultraedit"	0
+"move to bluefish from nano"	0
+"moved to vim from atom"	0
+"switched from ultraedit to atom"	0
+"move from brackets to notepad++"	0
+"switched to emacs from nano"	0
+"move from emacs to brackets"	0
+"switched to emacs from bluefish"	0
+"switched from text wrangler to ultraedit"	0
+"move to nano from komodo"	0
+"moved to notepad++ from vim"	0
+"switch from sublime to komodo"	0
+"switch to notepad++ from nano"	0
+"switched from bluefish to sublime"	0
+"move from sublime to emacs"	5
+"switch from komodo to text wrangler"	0
+"moved to komodo from nano"	0
+"switch from vim to brackets"	0
+"move to textmate from brackets"	0
+"moved to visual studio from vim"	0
+"moved from atom to jedit"	0
+"moved from jedit to notepad++"	0
+"move from visual studio to atom"	0
+"switch to atom from emacs"	5
+"moved from textmate to atom"	0
+"switched to textmate from nano"	0
+"move to vim from text wrangler"	0
+"move from text wrangler to emacs"	0
+"switch to visual studio from textmate"	0
+"moved from emacs to text wrangler"	0
+"switched from textmate to komodo"	0
+"move to emacs from bluefish"	0
+"moved to sublime from notepad++"	2
+"moved from ultraedit to text wrangler"	0
+"moved from nano to brackets"	0
+"switched to brackets from emacs"	0
+"switch from textmate to bluefish"	0
+"switch from textmate to ultraedit"	0
+"switched from jedit to emacs"	0
+"move to komodo from sublime"	0
+"move to notepad++ from komodo"	0
+"switched to text wrangler from komodo"	0
+"moved to bluefish from vim"	0
+"switch from ultraedit to notepad++"	1
+"move from komodo to ultraedit"	0
+"switch from emacs to visual studio"	2
+"move to komodo from emacs"	0
+"switch from sublime to vim"	8
+"move to nano from brackets"	0
+"move to visual studio from sublime"	0
+"moved from sublime to textmate"	0
+"moved from emacs to atom"	2
+"move from komodo to text wrangler"	0
+"switched from notepad++ to nano"	0
+"moved to text wrangler from sublime"	0
+"move from brackets to textmate"	0
+"moved to textmate from notepad++"	0
+"move to komodo from bluefish"	0
+"switch from textmate to komodo"	0
+"moved from ultraedit to notepad++"	0
+"switched from brackets to bluefish"	0
+"switch from jedit to visual studio"	0
+"switch from komodo to sublime"	0
+"move from vim to ultraedit"	0
+"moved to vim from sublime"	2
+"switched from nano to jedit"	0
+"moved from nano to emacs"	0
+"move from ultraedit to emacs"	0
+"switch from brackets to sublime"	1
+"switched to sublime from atom"	2
+"switch to atom from notepad++"	0
+"move from sublime to textmate"	0
+"switched from notepad++ to jedit"	0
+"switched to bluefish from vim"	0
+"moved from brackets to sublime"	0
+"move to brackets from ultraedit"	0
+"switch to textmate from atom"	0
+"switched from visual studio to bluefish"	0
+"moved to text wrangler from vim"	0
+"move to atom from ultraedit"	0
+"switch to ultraedit from notepad++"	0
+"switched from visual studio to emacs"	1
+"switched from notepad++ to ultraedit"	2
+"switched to vim from textmate"	415
+"move to text wrangler from visual studio"	0
+"moved from vim to sublime"	63
+"move to jedit from ultraedit"	0
+"switch to jedit from ultraedit"	0
+"switched from sublime to emacs"	2
+"moved to emacs from komodo"	0
+"switch to visual studio from text wrangler"	0
+"switch to ultraedit from brackets"	0
+"switched to atom from vim"	0
+"switched to vim from ultraedit"	0
+"switch to text wrangler from jedit"	0
+"moved to bluefish from brackets"	0
+"moved from notepad++ to textmate"	0
+"moved to brackets from notepad++"	0
+"move from vim to jedit"	0
+"switched to visual studio from komodo"	0
+"switched from nano to ultraedit"	0
+"switched to nano from vim"	0
+"switched to bluefish from textmate"	0
+"move to komodo from atom"	0
+"switched from bluefish to textmate"	0
+"switched to vim from emacs"	8
+"move from textmate to bluefish"	0
+"move from jedit to notepad++"	0
+"switched from nano to bluefish"	0
+"moved from jedit to atom"	0
+"move from notepad++ to sublime"	4
+"switched to brackets from nano"	0
+"move from textmate to jedit"	0
+"moved to textmate from bluefish"	0
+"moved from atom to ultraedit"	0
+"switch to jedit from bluefish"	0
+"switched from emacs to atom"	5
+"moved to atom from notepad++"	0
+"moved to text wrangler from jedit"	0
+"switched from text wrangler to bluefish"	0
+"switch from text wrangler to textmate"	0
+"switched from brackets to komodo"	0
+"moved to vim from textmate"	4
+"switch from jedit to sublime"	0
+"move from vim to atom"	3
+"switched from text wrangler to emacs"	0
+"move to text wrangler from bluefish"	0
+"moved from visual studio to brackets"	0
+"switched from vim to ultraedit"	0
+"switch from nano to sublime"	0
+"moved from textmate to nano"	0
+"moved to komodo from sublime"	0
+"switch to brackets from emacs"	0
+"moved from emacs to textmate"	4
+"switched from vim to jedit"	4
+"move from notepad++ to emacs"	2
+"move to ultraedit from sublime"	0
+"switched from vim to brackets"	0
+"move from visual studio to notepad++"	5
+"move to sublime from text wrangler"	0
+"move from bluefish to jedit"	0
+"moved from atom to emacs"	1
+"moved from bluefish to vim"	0
+"moved to emacs from textmate"	0
+"switched to visual studio from bluefish"	0
+"switch from visual studio to komodo"	0
+"switch to visual studio from sublime"	0
+"switched from visual studio to text wrangler"	0
+"move from vim to bluefish"	0
+"moved to ultraedit from brackets"	0
+"switched to vim from visual studio"	1
+"move from notepad++ to brackets"	3
+"switch to atom from sublime"	100
+"switched from vim to emacs"	569
+"moved from visual studio to notepad++"	0
+"switched from brackets to jedit"	0
+"switch from vim to emacs"	476
+"move to notepad++ from vim"	0
+"switch to komodo from nano"	0
+"switch to brackets from notepad++"	0
+"switched from atom to emacs"	0
+"switch to emacs from ultraedit"	0
+"switched from emacs to jedit"	5
+"move to visual studio from text wrangler"	0
+"switched to textmate from komodo"	0
+"switch from bluefish to sublime"	0
+"switched to vim from jedit"	0
+"moved from text wrangler to vim"	0
+"moved from visual studio to text wrangler"	0
+"switched from sublime to jedit"	0
+"switched from emacs to ultraedit"	0
+"move from textmate to atom"	0
+"move to ultraedit from emacs"	0
+"switched from vim to textmate"	2
+"switched to komodo from jedit"	0
+"move from text wrangler to visual studio"	0
+"switch from bluefish to text wrangler"	0
+"moved to visual studio from sublime"	0
+"switched to emacs from sublime"	2
+"switched to bluefish from emacs"	0
+"moved to nano from bluefish"	0
+"switched to brackets from visual studio"	0
+"switch to vim from visual studio"	0
+"switch to emacs from jedit"	0
+"switched to visual studio from jedit"	0
+"switch to visual studio from vim"	0
+"switch to atom from text wrangler"	0
+"move to jedit from komodo"	0
+"switch to ultraedit from emacs"	0
+"moved to ultraedit from notepad++"	0
+"move to nano from jedit"	0
+"switched to text wrangler from bluefish"	0
+"move to sublime from textmate"	1
+"switched to ultraedit from emacs"	0
+"switched from ultraedit to brackets"	0
+"moved to textmate from komodo"	0
+"move from text wrangler to nano"	0
+"switched to visual studio from notepad++"	0
+"switch to textmate from komodo"	0
+"moved to emacs from vim"	9
+"move from emacs to nano"	0
+"moved from brackets to ultraedit"	0
+"switched from komodo to visual studio"	0
+"switched from komodo to textmate"	0
+"switch from bluefish to visual studio"	0
+"switch to nano from textmate"	0
+"switched to nano from visual studio"	0
+"moved to visual studio from textmate"	0
+"move from jedit to brackets"	0
+"switch to vim from textmate"	395
+"move from vim to visual studio"	0
+"move from bluefish to notepad++"	0
+"switched from bluefish to nano"	0
+"switched to emacs from komodo"	0
+"moved from komodo to emacs"	0
+"move to emacs from brackets"	0
+"move to jedit from text wrangler"	0
+"switched to vim from bluefish"	0
+"switched from text wrangler to visual studio"	0
+"switch from nano to komodo"	0
+"switch from textmate to brackets"	0
+"moved to nano from sublime"	0
+"moved from komodo to vim"	0
+"switch from bluefish to jedit"	0
+"switched to ultraedit from vim"	0
+"moved to jedit from emacs"	0
+"moved to notepad++ from bluefish"	0
+"moved from brackets to komodo"	0
+"move from jedit to textmate"	0
+"moved to nano from notepad++"	0
+"move from brackets to komodo"	0
+"switch to atom from bluefish"	0
+"moved to atom from emacs"	0
+"switched to nano from bluefish"	0
+"move from notepad++ to vim"	0
+"move from textmate to notepad++"	0
+"switch to textmate from sublime"	0
+"switch to komodo from ultraedit"	0
+"switched from jedit to nano"	0
+"moved from atom to visual studio"	1
+"switched from jedit to ultraedit"	0
+"switch from nano to vim"	6
+"switch from nano to jedit"	0
+"switch from visual studio to bluefish"	0
+"move from nano to sublime"	0
+"moved to atom from textmate"	0
+"switch from nano to text wrangler"	0
+"moved to nano from text wrangler"	0
+"moved to text wrangler from bluefish"	0
+"moved to notepad++ from brackets"	0
+"move from vim to text wrangler"	0
+"switch from ultraedit to vim"	0
+"switched from sublime to ultraedit"	0
+"moved from text wrangler to visual studio"	0
+"switched to bluefish from nano"	0
+"switched from jedit to text wrangler"	1
+"switch to textmate from visual studio"	0
+"switched to sublime from jedit"	0
+"switched to notepad++ from emacs"	0
+"moved from textmate to visual studio"	0
+"move to bluefish from text wrangler"	0
+"moved to komodo from brackets"	0
+"moved from atom to textmate"	0
+"moved to emacs from text wrangler"	0
+"move from jedit to vim"	0
+"switch to komodo from notepad++"	0
+"moved to emacs from brackets"	0
+"switch from komodo to vim"	0
+"switch to bluefish from notepad++"	0
+"switch from komodo to brackets"	0
+"switch to emacs from brackets"	0
+"switch to ultraedit from bluefish"	0
+"move from komodo to emacs"	0
+"switch from jedit to atom"	0
+"switched from jedit to brackets"	0
+"moved from notepad++ to bluefish"	0
+"switch from ultraedit to bluefish"	0
+"moved from nano to komodo"	0
+"switch from brackets to visual studio"	0
+"switched to textmate from bluefish"	0
+"switch from bluefish to emacs"	0
+"move to visual studio from notepad++"	0
+"switched to jedit from bluefish"	0
+"switch to vim from notepad++"	0
+"move from vim to textmate"	0
+"switched from vim to visual studio"	1
+"moved to textmate from nano"	0
+"switched from ultraedit to komodo"	0
+"switch from visual studio to nano"	0
+"move from emacs to notepad++"	0
+"switch to nano from bluefish"	0
+"switch from visual studio to atom"	0
+"moved to jedit from vim"	1
+"moved from visual studio to emacs"	0
+"move to notepad++ from ultraedit"	0
+"switched to ultraedit from nano"	0
+"move from text wrangler to ultraedit"	0
+"switch from komodo to atom"	0
+"moved to vim from komodo"	0
+"switch to jedit from brackets"	0
+"move to jedit from notepad++"	0
+"move from nano to atom"	0
+"move from atom to brackets"	0
+"switch from nano to brackets"	0
+"move from nano to vim"	7
+"move from text wrangler to textmate"	0
+"moved from sublime to ultraedit"	0
+"switch from vim to ultraedit"	0
+"moved to visual studio from nano"	0
+"switched from bluefish to visual studio"	0
+"switched to nano from textmate"	0
+"switch from ultraedit to jedit"	0
+"switched to nano from komodo"	0
+"move to notepad++ from bluefish"	0
+"moved from atom to sublime"	2
+"move to komodo from notepad++"	0
+"switched to jedit from atom"	0
+"moved from bluefish to visual studio"	0
+"moved to brackets from nano"	0
+"switched from text wrangler to vim"	0
+"switch from notepad++ to text wrangler"	0
+"move from ultraedit to notepad++"	2
+"move from bluefish to atom"	0
+"switched to sublime from bluefish"	0
+"switch from emacs to atom"	44
+"switched from jedit to bluefish"	0
+"move to text wrangler from brackets"	0
+"switched from vim to bluefish"	1
+"switched to notepad++ from jedit"	0
+"move to komodo from jedit"	0
+"move to vim from jedit"	0
+"moved to vim from notepad++"	0
+"switch from textmate to text wrangler"	0
+"switched to text wrangler from vim"	0
+"moved from atom to notepad++"	0
+"move from emacs to textmate"	2
+"move to bluefish from notepad++"	0
+"move from brackets to jedit"	0
+"move to text wrangler from nano"	0
+"move to bluefish from visual studio"	0
+"switched to sublime from textmate"	2
+"switch from atom to textmate"	0
+"switch to emacs from vim"	801
+"switched to emacs from visual studio"	0
+"switched to notepad++ from bluefish"	0
+"switch from visual studio to textmate"	0
+"switched from notepad++ to emacs"	0
+"moved to emacs from sublime"	2
+"switched to komodo from sublime"	0
+"move to textmate from ultraedit"	0
+"moved to vim from bluefish"	0
+"move to emacs from sublime"	1
+"move to text wrangler from textmate"	0
+"switched from atom to jedit"	0
+"switch from text wrangler to sublime"	0
+"moved to notepad++ from komodo"	0
+"moved from text wrangler to textmate"	0
+"switch to jedit from nano"	0
+"switched to notepad++ from text wrangler"	0
+"switch from notepad++ to bluefish"	0
+"moved from text wrangler to komodo"	0
+"move from brackets to ultraedit"	0
+"move to ultraedit from notepad++"	0
+"moved to sublime from emacs"	1
+"move to komodo from ultraedit"	0
+"switch to komodo from emacs"	0
+"move to text wrangler from komodo"	0
+"move from jedit to emacs"	0
+"move to vim from emacs"	7
+"move from bluefish to emacs"	0
+"move from bluefish to text wrangler"	0
+"moved from komodo to textmate"	3
+"switch from notepad++ to ultraedit"	1
+"switched from sublime to textmate"	1
+"moved from komodo to visual studio"	0
+"moved to emacs from notepad++"	0
+"moved from komodo to jedit"	0
+"moved to atom from bluefish"	0
+"switch from text wrangler to jedit"	0
+"move to ultraedit from komodo"	0
+"switched from komodo to vim"	0
+"move to nano from emacs"	0
+"move from vim to nano"	0
+"move from emacs to visual studio"	0
+"switched from textmate to text wrangler"	0
+"moved from emacs to nano"	0
+"move to ultraedit from atom"	0
+"move from notepad++ to textmate"	0
+"switch from sublime to ultraedit"	0
+"moved from ultraedit to sublime"	0
+"switched to komodo from bluefish"	0
+"move to text wrangler from emacs"	0
+"switched to sublime from ultraedit"	0
+"move to vim from atom"	0
+"moved to visual studio from komodo"	0
+"switch to ultraedit from komodo"	0
+"move from nano to brackets"	0
+"switched from sublime to nano"	0
+"move to vim from brackets"	0
+"switch to bluefish from text wrangler"	0
+"moved to brackets from ultraedit"	0
+"switched from text wrangler to sublime"	0
+"move to komodo from textmate"	0
+"moved from bluefish to emacs"	0
+"switched from visual studio to nano"	0
+"move to brackets from textmate"	0
+"move to jedit from bluefish"	0
+"switched from jedit to vim"	1
+"moved to komodo from ultraedit"	0
+"switched from emacs to komodo"	1
+"switched from atom to sublime"	8
+"move to ultraedit from jedit"	1
+"moved from emacs to brackets"	0
+"switch from jedit to nano"	0
+"switched from jedit to sublime"	0
+"moved from notepad++ to brackets"	0
+"moved from vim to komodo"	0
+"switch to sublime from atom"	0
+"moved from textmate to vim"	177
+"move to bluefish from jedit"	0
+"switch to brackets from atom"	0
+"moved to notepad++ from jedit"	0
+"switched to vim from notepad++"	1
+"switched to atom from bluefish"	0
+"move from visual studio to jedit"	0
+"switch to nano from brackets"	0
+"switched from komodo to bluefish"	0
+"switch from emacs to jedit"	0
+"switched from emacs to brackets"	0
+"switch to nano from ultraedit"	0
+"moved from visual studio to nano"	0
+"switched to atom from sublime"	182
+"moved to ultraedit from visual studio"	0
+"move to sublime from atom"	0
+"switch from komodo to visual studio"	0
+"switched to emacs from vim"	10
+"switched to ultraedit from sublime"	0
+"moved from komodo to text wrangler"	0
+"switched from emacs to sublime"	9
+"switch from emacs to textmate"	0
+"move to ultraedit from visual studio"	0
+"switched to brackets from bluefish"	0
+"switch from brackets to bluefish"	0
+"switch from komodo to bluefish"	0
+"switch to atom from vim"	0
+"moved to brackets from atom"	0
+"switched from textmate to bluefish"	0
+"moved to sublime from vim"	0
+"switched from bluefish to atom"	0
+"switched to nano from atom"	0
+"switched from ultraedit to nano"	0
+"moved to visual studio from jedit"	0
+"moved to text wrangler from emacs"	0
+"switch to notepad++ from atom"	0
+"switched from textmate to visual studio"	0
+"switched to vim from komodo"	0
+"move from notepad++ to text wrangler"	0
+"switched from jedit to notepad++"	0
+"switched from textmate to jedit"	0
+"switch to nano from vim"	0
+"moved from notepad++ to nano"	0
+"switch from sublime to brackets"	4
+"switched from emacs to textmate"	7
+"switch from textmate to emacs"	6
+"move to brackets from atom"	0
+"switch from komodo to notepad++"	0
+"moved to komodo from bluefish"	0
+"switch to visual studio from jedit"	0
+"move to brackets from komodo"	0
+"switched from nano to komodo"	0
+"moved from sublime to text wrangler"	0
+"moved from text wrangler to jedit"	0
+"switched from emacs to nano"	0
+"move to jedit from nano"	0
+"switched to atom from visual studio"	0
+"switched from visual studio to komodo"	0
+"switched to ultraedit from bluefish"	0
+"move from bluefish to nano"	0
+"move to jedit from visual studio"	0
+"switched to textmate from emacs"	1
+"moved from vim to bluefish"	0
+"switched to text wrangler from textmate"	0
+"switched from jedit to atom"	0
+"moved to ultraedit from nano"	0
+"moved to text wrangler from komodo"	0
+"switched from textmate to notepad++"	0
+"move from brackets to nano"	0
+"move from emacs to bluefish"	0
+"moved from jedit to emacs"	0
+"moved to textmate from jedit"	0
+"moved from bluefish to jedit"	0
+"switch to brackets from sublime"	2
+"move from ultraedit to textmate"	0
+"switched from text wrangler to nano"	0
+"switch from sublime to jedit"	0
+"switched to komodo from ultraedit"	1
+"switch from jedit to textmate"	0
+"move to komodo from brackets"	0
+"move from vim to notepad++"	0
+"move to textmate from text wrangler"	0
+"switch from text wrangler to notepad++"	0
+"moved to emacs from jedit"	0
+"moved from jedit to vim"	1
+"switch to emacs from textmate"	3
+"switch from textmate to vim"	561
+"move to atom from vim"	4
+"move to notepad++ from nano"	0
+"move from ultraedit to vim"	0
+"switch to ultraedit from vim"	0
+"moved to visual studio from text wrangler"	0
+"moved to sublime from textmate"	0
+"switch to atom from komodo"	0
+"switched to ultraedit from atom"	0
+"move from visual studio to nano"	0
+"switch from atom to bluefish"	0
+"switched from visual studio to atom"	0
+"switched to bluefish from komodo"	0
+"move to brackets from text wrangler"	0
+"switch to visual studio from bluefish"	0
+"moved from nano to ultraedit"	0
+"switched to brackets from komodo"	0
+"moved to sublime from jedit"	0
+"switched to sublime from vim"	5
+"switched to visual studio from emacs"	0
+"switch to brackets from textmate"	0
+"switched to jedit from vim"	1
+"moved to emacs from ultraedit"	0
+"moved from vim to nano"	0
+"switched to text wrangler from sublime"	0
+"moved to sublime from visual studio"	0
+"moved from textmate to jedit"	0
+"switched to sublime from notepad++"	0
+"switch to nano from atom"	0
+"switch to vim from sublime"	195
+"switch from emacs to ultraedit"	0
+"switch from nano to atom"	0
+"switched to nano from ultraedit"	0
+"switched from nano to notepad++"	0
+"switch to atom from visual studio"	0
+"move from ultraedit to atom"	0
+"moved to notepad++ from atom"	0
+"switch to text wrangler from ultraedit"	0
+"moved to komodo from vim"	0
+"switched from ultraedit to visual studio"	0
+"moved from notepad++ to vim"	1
+"move to komodo from vim"	0
+"move from sublime to ultraedit"	0
+"moved from nano to atom"	0
+"switched from vim to komodo"	0
+"switch from textmate to notepad++"	0
+"switch to nano from notepad++"	0
+"moved to emacs from atom"	0
+"switch from ultraedit to textmate"	0
+"switched to visual studio from nano"	0
+"switch to notepad++ from bluefish"	0
+"switched from nano to brackets"	0
+"switch from sublime to atom"	240
+"switch to jedit from text wrangler"	0
+"moved to notepad++ from sublime"	0
+"moved to atom from jedit"	1
+"switch to textmate from ultraedit"	0
+"switch from emacs to sublime"	3
+"switch from ultraedit to text wrangler"	0
+"moved from ultraedit to atom"	0
+"moved from vim to textmate"	2
+"moved from emacs to bluefish"	0
+"move to bluefish from ultraedit"	0
+"switch to ultraedit from text wrangler"	0
+"switched to vim from sublime"	6
+"moved from bluefish to notepad++"	0
+"switch from sublime to emacs"	1
+"switched from atom to text wrangler"	0
+"switch to vim from komodo"	0
+"switch from jedit to bluefish"	0
+"move to notepad++ from sublime"	0
+"switched to jedit from komodo"	0
+"switched to textmate from ultraedit"	0
+"switch from komodo to emacs"	0
+"move to nano from visual studio"	0
+"move to bluefish from emacs"	0
+"switch to emacs from text wrangler"	0
+"switched from textmate to vim"	522
+"move from sublime to text wrangler"	0
+"switched from text wrangler to brackets"	0
+"switched to jedit from visual studio"	0
+"switch from nano to visual studio"	0
+"moved to visual studio from brackets"	0
+"switch from atom to nano"	0
+"switched to notepad++ from nano"	0
+"switch from brackets to jedit"	0
+"moved from nano to notepad++"	0
+"switch from notepad++ to nano"	0
+"switch to ultraedit from textmate"	0
+"move to text wrangler from jedit"	0
+"move from textmate to komodo"	0
+"switch from ultraedit to nano"	0
+"switched from nano to sublime"	0
+"switched from text wrangler to notepad++"	0
+"move to atom from text wrangler"	0
+"move to textmate from sublime"	0
+"moved to atom from brackets"	0
+"switch to atom from textmate"	0
+"move from nano to jedit"	0
+"move to textmate from atom"	0
+"switch to brackets from visual studio"	0
+"move from textmate to brackets"	0
+"switched to sublime from visual studio"	0
+"moved from emacs to jedit"	2
+"moved to text wrangler from notepad++"	0
+"switch from atom to visual studio"	8
+"switch from brackets to atom"	3
+"switch from textmate to atom"	0
+"move from sublime to bluefish"	0
+"switched to textmate from text wrangler"	0
+"moved to nano from jedit"	0
+"moved to jedit from notepad++"	0
+"switch to bluefish from jedit"	0
+"move to visual studio from textmate"	0
+"switched to bluefish from sublime"	0
+"move from atom to komodo"	0
+"switch to brackets from jedit"	0
+"switched to jedit from emacs"	0
+"move to atom from jedit"	0
+"switched to vim from brackets"	0
+"move from text wrangler to sublime"	0
+"move from bluefish to ultraedit"	0
+"move from notepad++ to jedit"	0
+"moved to jedit from komodo"	0
+"switched from nano to vim"	34
+"moved from ultraedit to textmate"	0
+"switched to bluefish from text wrangler"	0
+"switched to komodo from text wrangler"	0
+"move to text wrangler from notepad++"	0
+"moved from brackets to vim"	0
+"move to text wrangler from atom"	0
+"move to sublime from ultraedit"	0
+"switched from textmate to atom"	9
+"switch to text wrangler from vim"	0
+"switch from atom to komodo"	0
+"switch from text wrangler to brackets"	0
+"switch to komodo from text wrangler"	0
+"switched from textmate to ultraedit"	0
+"moved to sublime from brackets"	0
+"switch to text wrangler from atom"	0
+"move from komodo to nano"	0
+"moved from komodo to ultraedit"	0
+"switch to sublime from textmate"	2
+"switched to text wrangler from notepad++"	0
+"moved from notepad++ to text wrangler"	0
+"moved from brackets to nano"	0
+"moved from brackets to visual studio"	25
+"move to emacs from notepad++"	0
+"switched from atom to nano"	0
+"switch to vim from jedit"	2
+"move to sublime from vim"	0
+"switch to emacs from bluefish"	0
+"moved from nano to visual studio"	0
+"moved from bluefish to textmate"	0
+"moved to nano from komodo"	0
+"switched to ultraedit from notepad++"	0
+"switched to notepad++ from komodo"	0
+"move to notepad++ from jedit"	0
+"move to visual studio from nano"	0
+"switch to sublime from emacs"	0
+"moved to nano from atom"	0
+"move to vim from nano"	0
+"move from notepad++ to atom"	1
+"moved to bluefish from jedit"	0
+"switch to sublime from visual studio"	0
+"switch from textmate to nano"	0
+"switched from atom to notepad++"	0
+"switch to notepad++ from brackets"	0
+"switch from vim to text wrangler"	0
+"switched from text wrangler to atom"	0
+"switch from brackets to nano"	0
+"moved to text wrangler from textmate"	0
+"switched to atom from textmate"	1
+"switch from emacs to notepad++"	0
+"switched from bluefish to jedit"	0
+"move from visual studio to textmate"	0
+"switched from atom to visual studio"	7
+"switched from jedit to komodo"	0
+"move to komodo from text wrangler"	0
+"move from brackets to visual studio"	0
+"moved to visual studio from emacs"	0
+"switch from visual studio to sublime"	1
+"switch to notepad++ from vim"	0
+"switched to nano from sublime"	0
+"moved from notepad++ to komodo"	1
+"switched to komodo from nano"	0
+"moved from visual studio to atom"	0
+"move to text wrangler from ultraedit"	0
+"switch to brackets from text wrangler"	0
+"switched to textmate from brackets"	0
+"move to brackets from nano"	0
+"moved to vim from nano"	0
+"moved to ultraedit from komodo"	0
+"switch to notepad++ from jedit"	0
+"moved from bluefish to nano"	0
+"switch to text wrangler from komodo"	0
+"switched to textmate from visual studio"	0
+"switched from visual studio to jedit"	0
+"switch from text wrangler to bluefish"	0
+"switched to visual studio from sublime"	0
+"switched from komodo to ultraedit"	0
+"moved to atom from visual studio"	0
+"move from text wrangler to komodo"	0
+"move from bluefish to visual studio"	0
+"switched to sublime from emacs"	1
+"move to nano from textmate"	0
+"moved from textmate to sublime"	41
+"moved to brackets from emacs"	0
+"moved from textmate to ultraedit"	0
+"move to emacs from text wrangler"	0
+"switch to brackets from ultraedit"	0
+"moved from vim to emacs"	354
+"moved from jedit to ultraedit"	0
+"move from text wrangler to jedit"	0
+"move to ultraedit from brackets"	0
+"moved to bluefish from nano"	0
+"switch from bluefish to textmate"	0
+"move to notepad++ from atom"	0
+"switch from jedit to emacs"	2
+"move from textmate to emacs"	1
+"switched from notepad++ to komodo"	2
+"moved from nano to bluefish"	0
+"move to sublime from brackets"	0
+"moved from sublime to visual studio"	0
+"move from jedit to komodo"	0
+"switched to sublime from komodo"	0
+"switched from notepad++ to visual studio"	2
+"moved to atom from nano"	0
+"switched from text wrangler to komodo"	0
+"moved from brackets to jedit"	0
+"switch to sublime from vim"	0
+"switch from ultraedit to komodo"	0
+"moved from jedit to nano"	0
+"moved to brackets from bluefish"	0
+"moved from textmate to emacs"	6
+"move to visual studio from brackets"	0
+"move from visual studio to komodo"	0
+"moved from visual studio to textmate"	0
+"moved from brackets to text wrangler"	0
+"switch from visual studio to brackets"	0
+"switched to jedit from nano"	0
+"switched to visual studio from atom"	0
+"switched from bluefish to ultraedit"	0
+"switched to nano from brackets"	0
+"moved to textmate from text wrangler"	0
+"switched from bluefish to vim"	0
+"switch from vim to sublime"	10
+"moved from notepad++ to visual studio"	0
+"moved from visual studio to komodo"	0
+"moved to text wrangler from nano"	0
+"moved to visual studio from ultraedit"	0
+"move from brackets to bluefish"	0
+"move to textmate from visual studio"	0
+"switch from bluefish to notepad++"	0
+"moved to sublime from text wrangler"	0
+"moved to sublime from komodo"	0
+"moved from sublime to notepad++"	0
+"moved to brackets from visual studio"	0
+"switched to sublime from brackets"	0
+"switched from sublime to vim"	106
+"move from atom to textmate"	2
+"switched to komodo from vim"	0
+"switched to text wrangler from brackets"	0
+"switch from nano to ultraedit"	0
+"switched to visual studio from brackets"	0
+"moved to notepad++ from text wrangler"	0
+"move to textmate from emacs"	0
+"switched to bluefish from jedit"	0
+"switch from notepad++ to visual studio"	3
+"move to jedit from vim"	0
+"switch from vim to jedit"	0
+"switched to sublime from nano"	0
+"switch to text wrangler from textmate"	0
+"moved to bluefish from ultraedit"	0
+"move to ultraedit from bluefish"	0
+"switch from notepad++ to atom"	8
+"moved from jedit to brackets"	0
+"move from notepad++ to ultraedit"	0
+"switched to jedit from ultraedit"	0
+"switch from notepad++ to textmate"	0
+"moved to bluefish from emacs"	0
+"move to emacs from visual studio"	0
+"switch to text wrangler from bluefish"	0
+"switch to text wrangler from sublime"	0
+"moved from notepad++ to atom"	0
+"moved to atom from sublime"	8
+"switch from ultraedit to brackets"	0
+"move to atom from brackets"	0
+"switch from atom to sublime"	5
+"move from text wrangler to brackets"	0
+"move to textmate from notepad++"	0
+"moved to notepad++ from emacs"	0
+"switch to sublime from brackets"	0
+"moved to brackets from text wrangler"	0
+"moved from ultraedit to nano"	0
+"move from nano to komodo"	0
+"moved from jedit to text wrangler"	0
+"moved to vim from text wrangler"	0
+"moved from vim to visual studio"	0
+"switch from brackets to ultraedit"	0
+"moved from emacs to sublime"	2
+"switched from ultraedit to vim"	3
+"switch to bluefish from emacs"	0
+"move to emacs from atom"	0
+"move to jedit from brackets"	0
+"move from sublime to atom"	9
+"move to nano from vim"	0
+"switch from ultraedit to emacs"	0
+"move to sublime from notepad++"	0
+"move to bluefish from komodo"	0
+"moved to komodo from notepad++"	0
+"switched from brackets to nano"	0
+"switch from visual studio to text wrangler"	0
+"switch to jedit from emacs"	4
+"switched to notepad++ from atom"	0
+"switch to brackets from nano"	0
+"switch to sublime from text wrangler"	0
+"switched from brackets to ultraedit"	0
+"switch from vim to notepad++"	1
+"move to vim from bluefish"	0
+"switch from bluefish to atom"	0
+"move from text wrangler to notepad++"	0
+"switched to emacs from atom"	0
+"switch from nano to notepad++"	0
+"switch from bluefish to vim"	0
+"switched to ultraedit from komodo"	0
+"move from ultraedit to sublime"	0
+"moved to komodo from atom"	0
+"move from komodo to vim"	0
+"move from nano to text wrangler"	0
+"switched from sublime to atom"	174
+"switch to vim from emacs"	7
+"switched from emacs to bluefish"	0
+"switched from komodo to emacs"	0
+"moved from vim to text wrangler"	0
+"moved to brackets from jedit"	0
+"switch from bluefish to ultraedit"	0
+"switch from nano to textmate"	0
+"switch to jedit from visual studio"	0
+"move from ultraedit to jedit"	1
+"move from bluefish to textmate"	0
+"move to atom from komodo"	0
+"moved from bluefish to brackets"	0
+"switch to textmate from text wrangler"	0
+"switched to komodo from brackets"	0
+"switched to komodo from visual studio"	0
+"move from visual studio to sublime"	40
+"switched to jedit from brackets"	0
+"move to visual studio from bluefish"	0
+"moved from nano to textmate"	0
+"moved from textmate to text wrangler"	0
+"switched to bluefish from atom"	0
+"switch from jedit to ultraedit"	0
+"switch to emacs from atom"	0
+"switch from bluefish to komodo"	0
+"moved from nano to text wrangler"	0
+"moved from sublime to emacs"	4
+"switch to vim from ultraedit"	0
+"switched to textmate from vim"	0
+"move from atom to visual studio"	0
+"switch from notepad++ to sublime"	67
+"move to textmate from bluefish"	0
+"switched from brackets to atom"	8
+"switched from atom to vim"	3
+"switch to emacs from nano"	0
+"switch to sublime from bluefish"	0
+"moved to textmate from sublime"	0
+"switched to brackets from atom"	0
+"move from komodo to notepad++"	0
+"move from vim to brackets"	0
+"move from jedit to bluefish"	0
+"moved from textmate to komodo"	0
+"moved to atom from ultraedit"	0
+"move from sublime to jedit"	0
+"moved from text wrangler to ultraedit"	0
+"move from atom to emacs"	0
+"switched from komodo to jedit"	0
+"moved to jedit from visual studio"	0
+"move from emacs to vim"	230
+"switch to nano from jedit"	0
+"moved from visual studio to jedit"	0
+"switch to visual studio from emacs"	0
+"switched to jedit from sublime"	0
+"move to textmate from vim"	0
+"switch to textmate from nano"	0
+"move to emacs from vim"	3
+"moved from sublime to jedit"	0
+"moved to nano from emacs"	0
+"moved to ultraedit from emacs"	0
+"move from ultraedit to brackets"	0
+"move to bluefish from sublime"	0
+"moved from text wrangler to bluefish"	0
+"move from notepad++ to nano"	0
+"move to emacs from komodo"	0
+"moved to brackets from vim"	0
+"move to brackets from jedit"	0
+"switched to atom from text wrangler"	0
+"switch from visual studio to notepad++"	1
+"switched to notepad++ from brackets"	0
+"moved from textmate to brackets"	0
+"move from emacs to komodo"	0
+"moved from emacs to komodo"	0
+"move to atom from sublime"	5
+"move from atom to bluefish"	0
+"switch to notepad++ from ultraedit"	0
+"switched from textmate to emacs"	1
+"moved from visual studio to sublime"	0
+"switch to sublime from jedit"	0
+"move from visual studio to bluefish"	0
+"move from jedit to nano"	0
+"move to ultraedit from nano"	0
+"switch from text wrangler to nano"	0
+"switched to ultraedit from visual studio"	0
+"switch to visual studio from nano"	0
+"switched from brackets to notepad++"	2
+"switched to jedit from textmate"	0
+"switched from atom to bluefish"	0
+"moved to vim from emacs"	3
+"switch from notepad++ to vim"	0
+"moved from text wrangler to brackets"	0
+"moved from text wrangler to notepad++"	0
+"switch to notepad++ from emacs"	0
+"moved from emacs to visual studio"	0
+"moved to textmate from ultraedit"	0
+"switched to brackets from textmate"	0
+"switched to ultraedit from jedit"	0
+"moved from nano to jedit"	0
+"move to visual studio from vim"	0
+"moved from vim to brackets"	0
+"switched from notepad++ to atom"	6
+"switched from notepad++ to textmate"	0
+"move from atom to text wrangler"	0
+"move from brackets to text wrangler"	0
+"switched to atom from nano"	0
+"moved from notepad++ to jedit"	1
+"switch from visual studio to vim"	1
+"switch to sublime from komodo"	0
+"move from nano to ultraedit"	0
+"switched to emacs from ultraedit"	0
+"moved to sublime from atom"	0
+"switch to bluefish from sublime"	0
+"switch from text wrangler to visual studio"	0
+"move to vim from notepad++"	1
+"move from atom to nano"	0
+"moved to ultraedit from bluefish"	0
+"switched from nano to text wrangler"	0
+"switch to jedit from vim"	0
+"switched to ultraedit from textmate"	0
+"switched from textmate to sublime"	254
+"moved to jedit from bluefish"	0
+"move to emacs from textmate"	0
+"move to sublime from komodo"	0
+"switched from komodo to notepad++"	0
+"switch to nano from emacs"	0
+"switched to visual studio from vim"	0
+"move from visual studio to vim"	0
+"moved from sublime to komodo"	0
+"switch from notepad++ to emacs"	0
+"move to bluefish from brackets"	0
+"move from textmate to text wrangler"	0
+"move from ultraedit to bluefish"	0
+"move to nano from text wrangler"	0
+"move from brackets to emacs"	0
+"switched from brackets to vim"	0
+"move to vim from textmate"	0
+"move to bluefish from atom"	0
+"move from visual studio to emacs"	0
+"switched from text wrangler to textmate"	5
+"move from text wrangler to vim"	0
+"move from textmate to ultraedit"	0
+"switch to vim from text wrangler"	0
+"move to notepad++ from brackets"	0
+"switched from nano to visual studio"	0
+"moved to jedit from textmate"	0
+"moved to visual studio from notepad++"	0
+"switched to sublime from text wrangler"	0
+"switched to ultraedit from brackets"	0
+"switched to text wrangler from visual studio"	0
+"moved to emacs from nano"	0
+"moved from text wrangler to sublime"	3
+"switched to bluefish from visual studio"	0
+"move to brackets from notepad++"	1
+"switch to bluefish from ultraedit"	0
+"switch to komodo from jedit"	0
+"switch from brackets to vim"	0
+"moved to vim from brackets"	0
+"switch to textmate from vim"	0
+"switch to nano from sublime"	0
+"switch from sublime to nano"	0
+"switch to komodo from textmate"	0
+"moved to vim from ultraedit"	0
+"move to textmate from jedit"	0
+"switch from vim to komodo"	0
+"move to komodo from visual studio"	0
+"moved from sublime to brackets"	3
+"switch from brackets to komodo"	0
+"switched from komodo to sublime"	0
+"move to brackets from vim"	0
+"moved to textmate from atom"	0
+"switch to emacs from visual studio"	0
+"switched from visual studio to notepad++"	0
+"move from atom to jedit"	0
+"switched to komodo from atom"	0
+"switched to atom from notepad++"	4
+"moved from komodo to nano"	0
+"moved from notepad++ to ultraedit"	0
+"moved to bluefish from textmate"	0
+"switched to bluefish from notepad++"	0
+"switched from sublime to notepad++"	0
+"switched from atom to komodo"	0
+"switched to text wrangler from ultraedit"	0
+"switch from emacs to nano"	0
+"switch to vim from brackets"	0
+"switched to emacs from notepad++"	1
+"moved to atom from komodo"	0
+"moved from emacs to notepad++"	0
+"moved to bluefish from notepad++"	0
+"move to atom from emacs"	0
+"switched from sublime to text wrangler"	0
+"switched to visual studio from textmate"	0
+"switch from brackets to text wrangler"	0
+"moved to bluefish from text wrangler"	0
+"move from bluefish to komodo"	0
+"switched from komodo to atom"	1
+"switched from ultraedit to bluefish"	0
+"moved from nano to vim"	2
+"switch from textmate to visual studio"	0
+"switch to atom from jedit"	0
+"switched to atom from emacs"	1
+"switch to vim from atom"	1
+"move to text wrangler from vim"	0
+"switched from brackets to sublime"	3
+"switched from brackets to emacs"	0
+"switch to atom from brackets"	2
+"switched to vim from text wrangler"	0
+"switched from emacs to visual studio"	0
+"switched to bluefish from brackets"	0
+"move to emacs from nano"	0
+"moved to ultraedit from sublime"	0
+"switch from text wrangler to komodo"	0
+"switched from ultraedit to text wrangler"	0
+"switch to bluefish from textmate"	0
+"switch to bluefish from brackets"	0
+"switched to text wrangler from jedit"	0
+"moved from ultraedit to jedit"	1
+"moved to jedit from atom"	0
+"moved from notepad++ to sublime"	59
+"move to vim from komodo"	0
+"move from vim to sublime"	0
+"switch from vim to bluefish"	0
+"move from emacs to atom"	0
+"moved from bluefish to text wrangler"	0
+"switched from notepad++ to text wrangler"	0
+"switch from sublime to notepad++"	1
+"moved from atom to komodo"	0
+"moved from vim to ultraedit"	0
+"move to atom from visual studio"	0
+"switch from ultraedit to visual studio"	0
+"switch from visual studio to ultraedit"	0
+"move from brackets to sublime"	0
+"moved from bluefish to atom"	0
+"moved from text wrangler to atom"	0
+"switch to ultraedit from jedit"	0
+"moved from vim to atom"	4
+"switch to ultraedit from atom"	0
+"switched to bluefish from ultraedit"	0
+"moved to brackets from textmate"	0
+"switched from jedit to visual studio"	0
+"move from nano to emacs"	0
+"moved from vim to notepad++"	0
+"switch to visual studio from komodo"	0
+"switch from sublime to bluefish"	0
+"switched from sublime to komodo"	0
+"switch to textmate from notepad++"	0
+"switched to notepad++ from visual studio"	0
+"switched from ultraedit to jedit"	0
+"switch from komodo to nano"	0
+"move to visual studio from komodo"	0
+"move from text wrangler to bluefish"	0
+"switched to brackets from vim"	0
+"move to ultraedit from vim"	0
+"switched from notepad++ to bluefish"	0
+"switch from ultraedit to atom"	0
+"moved from jedit to bluefish"	0
+"switch to bluefish from visual studio"	0
+"switch to emacs from sublime"	2
+"move to sublime from emacs"	0
+"switch from jedit to komodo"	0
+"moved to ultraedit from vim"	0
+"switch from jedit to brackets"	0
+"switched to atom from jedit"	0
+"switched from nano to textmate"	0
+"switched from brackets to text wrangler"	0
+"moved from visual studio to bluefish"	0
+"move from brackets to vim"	0
+"switched to emacs from brackets"	0
+"switched from bluefish to komodo"	0
+"moved to jedit from brackets"	0
+"switched from brackets to textmate"	0
+"moved from sublime to bluefish"	0
+"switched to emacs from text wrangler"	0
+"switched from ultraedit to notepad++"	2
+"switch from emacs to text wrangler"	0
+"switch to nano from text wrangler"	0
+"moved to nano from brackets"	0
+"switched from ultraedit to emacs"	0
+"switched to textmate from atom"	0
+"switch to jedit from notepad++"	0
+"move from sublime to komodo"	0
+"switched to visual studio from text wrangler"	0
+"moved from atom to text wrangler"	0
+"switched from notepad++ to brackets"	3
+"switch from text wrangler to atom"	0
+"switch to jedit from textmate"	0
+"switch to sublime from nano"	0
+"move to brackets from visual studio"	0
+"moved from sublime to nano"	0
+"moved from komodo to sublime"	0
+"move to jedit from sublime"	0
+"move from emacs to ultraedit"	0
+"moved to notepad++ from visual studio"	0
+"switch from notepad++ to brackets"	1
+"move from vim to emacs"	310
+"move from ultraedit to text wrangler"	0
+"moved from komodo to atom"	0
+"move to brackets from sublime"	0
+"switch from text wrangler to ultraedit"	0
+"switched from visual studio to ultraedit"	0
+"move from bluefish to sublime"	0
+"switch from ultraedit to sublime"	2
+"move from visual studio to brackets"	0
+"switch to nano from visual studio"	0
+"move from jedit to sublime"	0
+"switched to textmate from notepad++"	0
+"switched from emacs to vim"	552
+"moved from atom to brackets"	0
+"move from komodo to bluefish"	0
+"switched from sublime to bluefish"	0
+"switched from bluefish to notepad++"	0
+"moved from emacs to vim"	183
+"switch to ultraedit from nano"	0
+"switched from sublime to brackets"	5
+"moved from ultraedit to visual studio"	0
+"switched from komodo to text wrangler"	0
+"switch to komodo from atom"	0
+"move from atom to notepad++"	0
+"switched to jedit from notepad++"	0
+"switched from bluefish to brackets"	0
+"move from visual studio to text wrangler"	0
+"moved from textmate to bluefish"	0
+"moved to visual studio from bluefish"	0
+"move from textmate to nano"	0
+"switched to emacs from textmate"	2
+"move from ultraedit to komodo"	0
+"switch to notepad++ from text wrangler"	0
+"moved to atom from text wrangler"	0
+"move from atom to ultraedit"	0
+"move to bluefish from textmate"	0
+"move to komodo from nano"	0
+"switch from atom to emacs"	6
+"move to brackets from emacs"	0
+"switch to jedit from komodo"	0
+"switched from atom to brackets"	3
+"moved to nano from textmate"	0
+"move from komodo to visual studio"	0
+"switch from emacs to komodo"	0
+"switch from notepad++ to komodo"	0
+"switch from vim to textmate"	5
+"switch to notepad++ from visual studio"	1
+"switched to brackets from sublime"	7
+"moved from textmate to notepad++"	0
+"moved to jedit from text wrangler"	0
+"switch to notepad++ from komodo"	0
+"switched to notepad++ from ultraedit"	0
+"switched to vim from nano"	1
+"switch from textmate to jedit"	0
+"moved from jedit to textmate"	0
+"switch to textmate from brackets"	0
+"move from komodo to textmate"	0
+"switch to text wrangler from visual studio"	0
+"switch to notepad++ from textmate"	0
+"move to textmate from komodo"	0
+"switched to jedit from text wrangler"	0
+"switched from textmate to nano"	0
+"move from visual studio to ultraedit"	0
+"moved from ultraedit to vim"	0
+"switched to atom from komodo"	1
+"moved to komodo from text wrangler"	0
+"switch from nano to bluefish"	0
+"moved from bluefish to komodo"	0
+"switch from atom to jedit"	0
+"move from brackets to atom"	0
+"switch from jedit to text wrangler"	0
+"switch from atom to text wrangler"	0
+"switched from vim to nano"	2
+"move to visual studio from emacs"	0
+"move from komodo to sublime"	0
+"move to notepad++ from text wrangler"	0
+"switched from bluefish to text wrangler"	0
+"switched from text wrangler to jedit"	0
+"switched from brackets to visual studio"	1
+"switch from atom to notepad++"	0
+"switch to sublime from notepad++"	2
+"move to nano from notepad++"	0
+"switched to text wrangler from emacs"	0
+"move from nano to bluefish"	0
+"switched to notepad++ from sublime"	0
+"switch from notepad++ to jedit"	0
+"moved from komodo to brackets"	0
+"switched to nano from text wrangler"	0
+"switched to vim from atom"	2
+"moved from jedit to visual studio"	0
+"move to nano from atom"	0
+"switched to brackets from ultraedit"	0
+"switched from notepad++ to vim"	5
+"switch to visual studio from atom"	0
+"switch to bluefish from komodo"	0
+"switched to notepad++ from textmate"	0
+"switch from vim to atom"	9
+"switch to text wrangler from notepad++"	0
+"switch from brackets to emacs"	0
+"switch to atom from nano"	0
+"moved to text wrangler from atom"	0
+"moved to atom from vim"	0
+"moved from visual studio to vim"	2
+"move to brackets from bluefish"	0
+"move from jedit to ultraedit"	0
+"move from emacs to jedit"	1
+"move to text wrangler from sublime"	0
+"move from bluefish to brackets"	0
+"switched to notepad++ from vim"	0
+"switched from ultraedit to textmate"	0
+"switched from emacs to text wrangler"	0
+"move from nano to visual studio"	0
+"move from nano to notepad++"	0
+"switch to bluefish from vim"	0
+"move from komodo to brackets"	0
+"move from sublime to vim"	1
+"switch to text wrangler from nano"	0
+"moved from atom to vim"	1
+"switch to atom from ultraedit"	0
+"moved to vim from visual studio"	0
+"switch to ultraedit from visual studio"	0
+"move to nano from ultraedit"	0
+"move from jedit to atom"	0
+"switch from jedit to notepad++"	0
+"switched to nano from jedit"	0
+"switched from vim to notepad++"	0
+"switched to brackets from notepad++"	0
+"move from nano to textmate"	0
+"moved to textmate from vim"	0
+"move from sublime to notepad++"	0
+"moved from brackets to atom"	0
+"switch to nano from komodo"	0
+"switched from emacs to notepad++"	0
+"moved from text wrangler to nano"	0
+"switch to komodo from sublime"	0
+"move to textmate from nano"	0
+"switch to text wrangler from emacs"	0
+"moved from emacs to ultraedit"	0
+"moved from nano to sublime"	0
+"switch to brackets from vim"	0
+"move from ultraedit to visual studio"	0
+"switch from text wrangler to emacs"	0
+"move to notepad++ from textmate"	0
+"switch to komodo from visual studio"	0
+"switched to text wrangler from atom"	0
+"switched from visual studio to sublime"	0
+"moved to jedit from nano"	0
+"moved from text wrangler to emacs"	0
+"switched from ultraedit to sublime"	1
+"switch from textmate to sublime"	87
+"moved from brackets to emacs"	0
+"moved to komodo from textmate"	0
+"switched from sublime to visual studio"	8
+"move to vim from visual studio"	0
+"moved to nano from ultraedit"	0
+"move to ultraedit from textmate"	0
+"moved to bluefish from visual studio"	0
+"switched to nano from notepad++"	0
+"moved from brackets to bluefish"	0
+"switched from nano to emacs"	0
+"moved to emacs from visual studio"	0
+"switch to visual studio from notepad++"	0
+"switch to emacs from komodo"	0
+"switch from visual studio to emacs"	8
+"move to notepad++ from visual studio"	0
+"move from komodo to jedit"	0
+"switch from brackets to textmate"	0
+"moved from jedit to komodo"	0
+"move from textmate to vim"	206
+"switched from atom to ultraedit"	0
+"switched to nano from emacs"	0
+"move to visual studio from jedit"	0
+"switch from brackets to notepad++"	0
+"move to visual studio from ultraedit"	0
+"switched from vim to atom"	7
+"moved to text wrangler from brackets"	0
+"switched to brackets from jedit"	0
+"move to atom from notepad++"	0
+"switch from atom to brackets"	0
+"switched to brackets from text wrangler"	0
+"switched from vim to text wrangler"	0
+"move from sublime to visual studio"	0
+"switch from emacs to vim"	513
+"moved to textmate from brackets"	0
+"move from textmate to visual studio"	0
+"move from sublime to brackets"	1
+"moved from sublime to atom"	10
+"switch to textmate from emacs"	0
+"switch to emacs from notepad++"	0
+"switch to komodo from brackets"	0
+"switch to vim from nano"	0
+"move from notepad++ to visual studio"	0
+"moved from atom to bluefish"	0
+"switch from visual studio to jedit"	0
+"switched to komodo from notepad++"	0
+"move from komodo to atom"	0
+"switched from notepad++ to sublime"	203
+"move to visual studio from atom"	0
+"move from text wrangler to atom"	0
+"moved to visual studio from atom"	0
+"move to emacs from ultraedit"	0
+"move to atom from bluefish"	0
+"moved to sublime from ultraedit"	0
+"moved to bluefish from komodo"	0
+"move to nano from sublime"	0
+"moved from notepad++ to emacs"	0
+"switched from komodo to nano"	0
+"moved to komodo from jedit"	0
+"switch from sublime to visual studio"	10
+"move to sublime from visual studio"	0
+"moved to jedit from ultraedit"	0
+"moved from bluefish to sublime"	0
+"move to sublime from nano"	0
+"switch from bluefish to brackets"	0
+"switch to visual studio from ultraedit"	0
+"move to ultraedit from text wrangler"	0
+"switch from atom to ultraedit"	0
+"move to sublime from jedit"	0
+"moved from atom to nano"	0
+"switched to textmate from jedit"	0
+"switch from sublime to text wrangler"	0
+"switch to textmate from jedit"	0
+"switch from bluefish to nano"	0
+"switch to komodo from vim"	0
+"switched to atom from ultraedit"	0
+"switched to ultraedit from text wrangler"	0
+"switch to text wrangler from brackets"	0
+"switch from nano to emacs"	1
+"moved from visual studio to ultraedit"	0
+"switch to brackets from bluefish"	0
+"move from vim to komodo"	0
+"move from ultraedit to nano"	0
+"switch to sublime from ultraedit"	0
+"moved from komodo to notepad++"	0
+"moved to ultraedit from text wrangler"	0
+"move to atom from nano"	0
+"moved from sublime to vim"	5
+"moved to notepad++ from ultraedit"	0
+"move from atom to vim"	1
+"move from sublime to nano"	0
+"move to emacs from jedit"	0
+"move to notepad++ from emacs"	0
+"switched to atom from brackets"	1
+"switched from atom to textmate"	0
+"switched from jedit to textmate"	0
+"moved to vim from jedit"	0
+"move from emacs to sublime"	0
+"moved to sublime from nano"	0
+"switch to notepad++ from sublime"	0
+"switch from emacs to bluefish"	0
+"moved to notepad++ from nano"	0
+"switch from vim to nano"	2
+"switch to visual studio from brackets"	0
+"move to sublime from bluefish"	0
+"switch to vim from bluefish"	0
+"move from jedit to visual studio"	0
+"switch from atom to vim"	8
+"moved from ultraedit to brackets"	0
+"switch to komodo from bluefish"	0
+"moved from ultraedit to emacs"	0
+"move to bluefish from vim"	0
+"moved from bluefish to ultraedit"	0
+"move from jedit to text wrangler"	0
+"switched to text wrangler from nano"	0
+"move from emacs to text wrangler"	0
+"switch to bluefish from nano"	0
+"switched to komodo from textmate"	0
+"moved to text wrangler from visual studio"	0
+"move from textmate to sublime"	5
+"moved to textmate from emacs"	0
+"moved to jedit from sublime"	0
+"moved to bluefish from sublime"	0
+"moved from ultraedit to bluefish"	0
+"switch from emacs to brackets"	0
+"moved to sublime from bluefish"	0
+"move to jedit from emacs"	0
+"switch from komodo to textmate"	0
+"move to vim from ultraedit"	0
+"move to atom from textmate"	0
+"switched from vim to sublime"	219
+"move from bluefish to vim"	0
+"switch to textmate from bluefish"	0
+"moved from ultraedit to komodo"	0
+"switched to textmate from sublime"	0
+"switched to emacs from jedit"	0
+"switch to jedit from sublime"	0
+"moved to notepad++ from textmate"	0
+"switched from textmate to brackets"	1
+"moved to nano from vim"	0
+"switched from visual studio to vim"	4
+"switch to brackets from komodo"	0
+"moved from brackets to textmate"	0
+"switch from komodo to jedit"	0
+"switched from visual studio to brackets"	0
+"moved from vim to jedit"	0
+"switch to jedit from atom"	0
+"moved from komodo to bluefish"	0
+"moved to ultraedit from atom"	0
+"move to jedit from atom"	0
+"switch from sublime to textmate"	2
+"switch from jedit to vim"	1
+"switched to visual studio from ultraedit"	0
+"moved to brackets from komodo"	0
+"switched from nano to atom"	0
+"switch to ultraedit from sublime"	0
+"moved from jedit to sublime"	0
+"moved to komodo from emacs"	0
+"moved to ultraedit from jedit"	0
+"move from atom to sublime"	0
+"moved to ultraedit from textmate"	0
+"move to vim from sublime"	2
+"moved to bluefish from atom"	0
+"moved to komodo from visual studio"	0
+"moved to textmate from visual studio"	0
+"moved to emacs from bluefish"	0
+"switched from bluefish to emacs"	0
+"switched from visual studio to textmate"	0
+"switched from komodo to brackets"	0
+"moved from brackets to notepad++"	0
+"move to jedit from textmate"	0
+"moved to brackets from sublime"	0
+"switch from vim to visual studio"	1
+"switch from text wrangler to vim"	0

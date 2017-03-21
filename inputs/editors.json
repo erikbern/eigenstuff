@@ -1,0 +1,5 @@
+{
+    "tag": "editors",
+    "items": ["emacs", "vim", "notepad++", "sublime", "visual studio", "atom", "brackets", "nano", "ultraedit", "textmate", "text wrangler", "jedit"],
+    "verbs": ["switch", "switched", "move", "moved"]
+}
