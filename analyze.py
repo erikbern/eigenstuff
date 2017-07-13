@@ -35,7 +35,7 @@ for item1, item2 in itertools.product(items, items):
 
 m = numpy.zeros((len(items), len(items)))
 random.shuffle(qs)
-print 100. * len(set(cache).intersection([q for _, _, q in qs])) / len(qs)
+print(100. * len(set(cache).intersection([q for _, _, q in qs])) / len(qs))
 
 for i, j, q in qs:
     if q in cache:
@@ -90,7 +90,7 @@ for item, pop in zip(items, m.sum(axis=0) + m.sum(axis=1)):
 m /= m.sum(axis=0)[numpy.newaxis,:]
 u = numpy.ones(len(items))
 
-for i in xrange(100):
+for i in range(100):
     u = numpy.dot(m, u)
     u /= u.sum()
 
