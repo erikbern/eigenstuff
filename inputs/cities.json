@@ -1,0 +1,5 @@
+{
+    "tag": "city",
+    "items": ["New York", "Los Angeles", "Chicago", "Dallas", "Houston", "Washington, DC", "Miami", "Philadelphia", "Atlanta", "Boston", "Phoenix", "San Francisco", "Riverside", "Detroit", "Seattle", "Minneapolis", "San Diego", "Tampa", "Denver", "Baltimore", "St. Louis", "Charlotte", "Orlando", "San Antonio", "Portland", "Pittsburgh", "Sacramento", "Las Vegas", "Cincinnati", "Kansas City", "Austin", "Columbus", "Cleveland", "Indianapolis", "San Jose", "Nashville", "Virginia Beach", "Providence", "Milwaukee", "Jacksonville", "Oklahoma City", "Memphis", "Raleigh", "Richmond", "Louisville", "New Orleans", "Hartford", "Salt Lake City", "Birmingham", "Buffalo"],
+    "verbs": ["move"]
+}

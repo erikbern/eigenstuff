@@ -1,9 +1,13 @@
 import bs4, itertools, json, matplotlib, numpy, os, random, re, requests, sys, time
 from matplotlib import pyplot
 
+
+input_fn = sys.argv[1]
+cache_fn = input_fn + '.cache.csv'
+
 cache = {}
-if os.path.exists('cache.tsv'):
-    for line in open('cache.tsv'):
+if os.path.exists(cache_fn):
+    for line in open(cache_fn):
         q, n = line.strip().split('\t')
         cache[q] = int(n)
 
@@ -19,7 +23,7 @@ def get_n_results_dumb(q):
     m = re.search(r'([0-9,]+)', s)
     return int(m.groups()[0].replace(',', ''))
 
-data = json.load(open(sys.argv[1]))
+data = json.load(open(input_fn))
 tag = data['tag']
 items = data['items']
 verbs = data['verbs']
@@ -35,7 +39,8 @@ for item1, item2 in itertools.product(items, items):
 
 m = numpy.zeros((len(items), len(items)))
 random.shuffle(qs)
-print(100. * len(set(cache).intersection([q for _, _, q in qs])) / len(qs))
+progress = len(set(cache).intersection([q for _, _, q in qs])) / len(qs)
+print('Progress so far: %5.2f%%' % (100. * progress))
 
 for i, j, q in qs:
     if q in cache:
@@ -45,7 +50,7 @@ for i, j, q in qs:
         sys.stdout.flush()
         n = get_n_results_dumb(q)
         sys.stdout.write('%9d\n' % n)
-        f = open('cache.tsv', 'a')
+        f = open(cache_fn, 'a')
         f.write('%s\t%d\n' % (q, n))
         f.close()
     m[j][i] += n
@@ -58,11 +63,11 @@ def plot_mat(m, items, cm, fn, fmt, dir_text=None):
     ax.matshow(m.T + 1, cmap=cm, norm=matplotlib.colors.LogNorm(vmin=numpy.min(m+1), vmax=numpy.max(m+1)))
 
     if dir_text:
-        ax.set_xlabel('To language\n< Smaller %s %10s Larger %s >' % (dir_text, '', dir_text))
-        ax.set_ylabel('From language\n< Larger %s %10s Smaller %s >' % (dir_text, '', dir_text))
+        ax.set_xlabel('To %s\n< Smaller %s %10s Larger %s >' % (tag, dir_text, '', dir_text))
+        ax.set_ylabel('From %s\n< Larger %s %10s Smaller %s >' % (tag, dir_text, '', dir_text))
     else:
-        ax.set_xlabel('To language')
-        ax.set_ylabel('From language')
+        ax.set_xlabel('To %s' % tag)
+        ax.set_ylabel('From %s'% tag)
     ax.set_xticks(numpy.arange(0, len(items)))
     ax.set_yticks(numpy.arange(0, len(items)))
     ax.set_xticklabels(items, rotation=90, ha='center')
