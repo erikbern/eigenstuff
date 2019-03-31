@@ -12,16 +12,27 @@ if os.path.exists(cache_fn):
         cache[q] = int(n)
 
 def get_n_results_dumb(q):
-    r = requests.get('http://www.google.com/search',
-                     params={'q': q,
-                             "tbs": "li:1"})
-    r.raise_for_status()
+    sleep = 60
+    while True:
+        r = requests.get('http://www.google.com/search',
+                         params={'q': q,
+                                 "tbs": "li:1"})
+        if r.status_code == 200:
+            break
+        elif r.status_code == 503:
+            print('%50s... got rate limited, sleeping %ds then retrying' % (q, sleep))
+            time.sleep(sleep)
+            sleep = min(3*sleep, 1200)
+        else:
+            raise Exception('Got HTTP status code %d', r.status_code)
+
     soup = bs4.BeautifulSoup(r.text)
     s = soup.find('div', {'id': 'resultStats'}).text
     if not s:
         return 0
-    m = re.search(r'([0-9,]+)', s)
-    return int(m.groups()[0].replace(',', ''))
+    m = int(re.search(r'([0-9,]+)', s).groups()[0].replace(',', ''))
+    print('%50s... %d' % (q, m))
+    return m
 
 data = json.load(open(input_fn))
 tag = data['tag']
@@ -46,10 +57,7 @@ for i, j, q in qs:
     if q in cache:
         n = cache[q]
     else:
-        sys.stdout.write('%50s...' % q)
-        sys.stdout.flush()
         n = get_n_results_dumb(q)
-        sys.stdout.write('%9d\n' % n)
         f = open(cache_fn, 'a')
         f.write('%s\t%d\n' % (q, n))
         f.close()
